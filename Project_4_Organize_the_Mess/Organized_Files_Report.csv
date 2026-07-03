@@ -1,0 +1,51 @@
+file_name,folder_path,extension,category,size_kb,size_mb,date_modified,last_accessed,duplicate_group,is_duplicate,wasted_kb,has_extension_issue,notes
+leftover_installer.exe,C:\Users\Alex\Downloads\Old Stuff,exe,Application,18000,17.578,3/15/2018,3/15/2018,,FALSE,0,FALSE,forgotten file
+archive_backup.7z,D:\Backup,7z,Archive,45000,43.945,1/1/2023,1/1/2023,DUP-H,TRUE,0,FALSE,
+archive_backup.7z,C:\Users\Alex\Downloads,7z,Archive,45000,43.945,1/1/2023,1/1/2023,DUP-H,TRUE,45000,FALSE,duplicate copy
+Invoice_March.pdf,C:\Users\Alex\Documents,pdf,Document,120,0.117,3/5/2024,3/6/2024,DUP-B,TRUE,0,FALSE,
+Invoice_March.pdf,D:\Backup\Documents,pdf,Document,120,0.117,3/5/2024,3/5/2024,DUP-B,TRUE,120,FALSE,backup copy
+Meeting_Notes.txt,C:\Users\Alex\Documents,txt,Document,3,0.003,4/1/2024,4/2/2024,DUP-C,TRUE,0,FALSE,
+Meeting_Notes.txt,C:\Users\Alex\Desktop,txt,Document,3,0.003,4/1/2024,4/1/2024,DUP-C,TRUE,3,FALSE,duplicate copy
+New Text Document (2).txt,C:\Users\Alex\Desktop,txt,Document,0,0,1/6/2020,1/6/2020,,FALSE,0,FALSE,forgotten file; never renamed
+New Text Document.txt,C:\Users\Alex\Desktop,txt,Document,0,0,1/5/2020,1/5/2020,,FALSE,0,FALSE,forgotten file; never renamed
+Resume_2023.docx,C:\Users\Alex\Documents,docx,Document,45,0.044,8/1/2023,6/10/2024,DUP-A,TRUE,0,FALSE,
+Resume_2023.docx,C:\Users\Alex\Desktop,docx,Document,45,0.044,8/1/2023,9/15/2023,DUP-A,TRUE,45,FALSE,same file saved on desktop
+Resume_Final.docx,C:\Users\Alex\Downloads,docx,Document,45,0.044,8/2/2023,8/2/2023,DUP-A,TRUE,45,FALSE,renamed duplicate
+Tax_Return_2022 (1).pdf,C:\Users\Alex\Downloads,pdf,Document,540,0.527,2/15/2023,2/15/2023,DUP-D,TRUE,540,FALSE,renamed duplicate
+Tax_Return_2022.pdf,C:\Users\Alex\Documents,pdf,Document,540,0.527,2/15/2023,4/14/2023,DUP-D,TRUE,0,FALSE,
+Tax_Return_2022.pdf,D:\Backup\Documents,pdf,Document,540,0.527,2/15/2023,2/15/2023,DUP-D,TRUE,540,FALSE,backup copy
+budget_spreadsheet.xlsx,C:\Users\Alex\Documents,xlsx,Document,88,0.086,1/10/2024,5/1/2024,DUP-E,TRUE,0,FALSE,
+budget_spreadsheet_FINAL.xlsx,C:\Users\Alex\Desktop,xlsx,Document,90,0.088,1/12/2024,1/12/2024,DUP-E,TRUE,90,FALSE,near-duplicate revision
+budget_spreadsheet_FINAL_v2.xlsx,C:\Users\Alex\Downloads,xlsx,Document,91,0.089,1/14/2024,1/14/2024,DUP-E,TRUE,91,FALSE,near-duplicate revision
+contract_signed.pdf,C:\Users\Alex\Documents,pdf,Document,210,0.205,5/18/2023,5/19/2023,DUP-G,TRUE,0,FALSE,
+contract_signed.pdf,C:\Users\Alex\Desktop,pdf,Document,210,0.205,5/18/2023,5/18/2023,DUP-G,TRUE,210,FALSE,duplicate copy
+contract_signed.pdf,D:\Backup\Documents,pdf,Document,210,0.205,5/18/2023,5/18/2023,DUP-G,TRUE,210,FALSE,backup copy
+draft_email.eml,C:\Users\Alex\Documents,eml,Document,6,0.006,4/10/2024,4/10/2024,,FALSE,0,FALSE,
+notes_v1.txt,C:\Users\Alex\Documents,txt,Document,2,0.002,12/2/2021,12/2/2021,,FALSE,0,FALSE,possibly related to notes_v1
+presentation_draft.pptx,C:\Users\Alex\Documents,pptx,Document,1500,1.465,2/20/2024,5/30/2024,,FALSE,0,FALSE,
+presentation_draft_OLD.pptx,C:\Users\Alex\Documents\Old,pptx,Document,1450,1.416,9/1/2023,9/1/2023,,FALSE,0,FALSE,forgotten older version
+thesis_chapter1.docx,C:\Users\Alex\Documents,docx,Document,60,0.059,6/1/2024,6/15/2024,,FALSE,0,FALSE,
+thesis_chapter1_backup.docx,C:\Users\Alex\Documents\Old,docx,Document,58,0.057,1/20/2024,1/20/2024,,FALSE,0,FALSE,forgotten older backup
+IMG_20220304_162200.jpg,C:\Users\Alex\Pictures,jpg,Image,2100,2.051,3/4/2022,3/4/2022,DUP-F,TRUE,0,FALSE,
+IMG_20220304_162200.jpg,C:\Users\Alex\Downloads,jpg,Image,2100,2.051,3/4/2022,3/4/2022,DUP-F,TRUE,2100,FALSE,duplicate copy
+Vacation_Photo.HEIC,C:\Users\Alex\Pictures,HEIC,Image,3400,3.32,7/20/2023,7/21/2023,,FALSE,0,FALSE,
+family_photo.png,C:\Users\Alex\Pictures,png,Image,4100,4.004,12/25/2022,12/25/2023,DUP-I,TRUE,0,FALSE,
+family_photo.png,C:\Users\Alex\Desktop,png,Image,4100,4.004,12/25/2022,12/25/2022,DUP-I,TRUE,4100,FALSE,duplicate copy
+profile_pic.webp,C:\Users\Alex\Pictures,webp,Image,150,0.146,10/10/2023,2/1/2024,,FALSE,0,FALSE,
+Screenshot (12).png,C:\Users\Alex\Desktop,png,Screenshot,640,0.625,12/1/2023,12/1/2023,,FALSE,0,FALSE,not filed into Screenshots folder
+Screenshot_2023-11-05_220110.png,C:\Users\Alex\Pictures\Screenshots,png,Screenshot,700,0.684,11/5/2023,11/5/2023,,FALSE,0,FALSE,
+Screenshot_2024-01-15_143022.png,C:\Users\Alex\Pictures\Screenshots,png,Screenshot,850,0.83,1/15/2024,1/15/2024,,FALSE,0,FALSE,
+Screenshot_2024-02-02_091533.png,C:\Users\Alex\Pictures\Screenshots,png,Screenshot,910,0.889,2/2/2024,2/2/2024,,FALSE,0,FALSE,
+Screenshot_2024-02-10_101245.png,C:\Users\Alex\Pictures\Screenshots,png,Screenshot,780,0.762,2/10/2024,2/10/2024,,FALSE,0,FALSE,
+Screenshot_2024-03-01_080015.png,C:\Users\Alex\Desktop,png,Screenshot,690,0.674,3/1/2024,3/1/2024,,FALSE,0,FALSE,not filed into Screenshots folder
+Untitled.bin,C:\Users\Alex\Desktop,bin,Unknown,15,0.015,1/30/2022,1/30/2022,,FALSE,0,TRUE,unsupported extension
+backup_file,C:\Users\Alex\Documents\Old,(none),Unknown,1200,1.172,11/3/2018,11/3/2018,,FALSE,0,TRUE,missing extension; forgotten file
+concert_photo.jfif,C:\Users\Alex\Pictures,jfif,Unknown,980,0.957,8/19/2022,8/19/2022,,FALSE,0,TRUE,unsupported extension
+notes_v1,C:\Users\Alex\Downloads,(none),Unknown,2,0.002,12/1/2021,12/1/2021,,FALSE,0,TRUE,missing extension
+old_notes,C:\Users\Alex\Downloads\Old Stuff,(none),Unknown,4,0.004,2/11/2019,2/11/2019,,FALSE,0,TRUE,missing extension; forgotten file
+old_resume,C:\Users\Alex\Documents\Old,(none),Unknown,42,0.041,5/4/2016,5/4/2016,,FALSE,0,TRUE,missing extension; forgotten file
+project_data.xyz,C:\Users\Alex\Downloads,xyz,Unknown,300,0.293,5/14/2022,5/14/2022,,FALSE,0,TRUE,unsupported extension
+random_download,C:\Users\Alex\Downloads\Old Stuff,(none),Unknown,60,0.059,6/22/2017,6/22/2017,,FALSE,0,TRUE,missing extension; forgotten file
+settings.cfgbak,C:\Users\Alex\Downloads,cfgbak,Unknown,2,0.002,9/9/2021,9/9/2021,,FALSE,0,TRUE,unsupported extension
+system_temp.tmp,C:\Users\Alex\Downloads\Old Stuff,tmp,Unknown,8,0.008,8/8/2019,8/8/2019,,FALSE,0,TRUE,unsupported extension; forgotten file
+unknown_file.dat,C:\Users\Alex\Downloads,dat,Unknown,25,0.024,3/11/2021,3/11/2021,,FALSE,0,TRUE,unsupported extension
